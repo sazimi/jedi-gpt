@@ -33,8 +33,7 @@ Thumbs.db
 # Optional npm cache directory
 .npm
 
-#dist
-dist/   
-
 # Build output
-build/  
+# Ignore dist folders anywhere in the repo
+dist/
+**/dist/
