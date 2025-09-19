@@ -1,0 +1,22 @@
+# Node
+node_modules/
+.env
+
+# Vite/React
+frontend/dist/
+frontend/node_modules/
+
+# Backend
+backend/dist/
+backend/node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Docker
+*.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
